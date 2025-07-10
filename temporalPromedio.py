@@ -3,7 +3,8 @@
 import time
 import random
 
-tamanos = [10000, 12000, 14000, 16000, 18000]
+tamanos = [10000, 100000, 1000000, 10000000, 100000000]
+
 resultados = []
 
 def quicksort(lista):
